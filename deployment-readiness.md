@@ -13,5 +13,5 @@ Deployment readiness ensures soldiers are prepared physically, mentally, and adm
 - Training certifications  
 
 ## Related Pages
-- [[operations-overview]]
-- [[support-services]]
+- [operations-overview](operations-overview.md)
+- [support-services](support-services.md)
