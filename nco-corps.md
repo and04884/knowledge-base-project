@@ -13,5 +13,5 @@ Noncommissioned Officers are the backbone of the Army, responsible for training 
 - Technical expertise  
 
 ## Related Pages
-- [[leadership-overview]]
-- [[professional-military-education]]
+- [leadership-overview](leadership-overview.md)
+- [professional-military-education](professional-military-education.md)
