@@ -15,4 +15,4 @@ A typical Army day includes physical training, work duties, meals, and personal 
 
 ## Related Pages
 - [army-life-overview](army-life-overview.md)
-- [basic-training-overview](basic-training.md)
+- [basic-training-overview](basic-training-overview.md)
