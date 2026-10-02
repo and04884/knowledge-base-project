@@ -2,14 +2,14 @@
 
 # Serving in the U.S. Army — Knowledge Base
 
-A comprehensive, interconnected digital knowledge base created for **Project 02: Final Knowledge Base Publication**. This site organizes information about Army life, training, leadership, operations, and soldier wellbeing using structured Markdown, YAML frontmatter, and internal linking.
+A comprehensive, interconnected digital knowledge base created for **Project 02: Final Knowledge Base Publication**. This site organizes information about Army life, training, leadership, operations, and support systems.
 
 ## 📘 Purpose
 This project demonstrates:
 - Information architecture
 - Metadata design
-- Category‑based organization
-- Internal linking and cross‑referencing
+- Category-based organization
+- Internal linking and cross-referencing
 - Technical writing and content hierarchy
 - GitHub Pages publication workflow
 
@@ -28,7 +28,7 @@ The knowledge base contains **22 substantive content pages**, organized into six
 Each category includes an index file and multiple internally linked pages.
 
 ## 🌐 Live Site
-[https://and04884.github.io/your-army-knowledge-base/](https://and04884.github.io/knowledge-base-project/)
+[https://and04884.github.io/knowledge-base-project/](https://and04884.github.io/knowledge-base-project/)
 
 ## 🛠️ Tools Used
 - Obsidian (content creation)
@@ -37,6 +37,3 @@ Each category includes an index file and multiple internally linked pages.
 
 ## 📄 References
 See `references.md` for external sources.
-
-
-

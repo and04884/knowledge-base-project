@@ -8,11 +8,11 @@ date: 2026-10-01
 This section explores daily life, expectations, culture, and responsibilities of serving in the Army.
 
 ## Pages
-- [[army-life-overview]]
-- [[daily-routine]]
-- [[living-arrangements]]
-- [[army-values]]
+- [Army Life Overview](../army-life-overview.md)
+- [Daily Routine](../daily-routine.md)
+- [Living Arrangements](../living-arrangements.md)
+- [Army Values](../army-values.md)
 
 ## Related Categories
-- [[training-and-development/index|Training & Development]]
-- [[support-and-wellbeing/index|Support & Wellbeing]]
+- [Training & Development](../training-and-development/index.md)
+- [Support & Wellbeing](../support-and-wellbeing/index.md)

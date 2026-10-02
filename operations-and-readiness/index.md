@@ -8,10 +8,10 @@ date: 2026-10-01
 This section covers mission preparation, field exercises, and readiness standards.
 
 ## Pages
-- [[operations-overview]]
-- [[field-training-exercises]]
-- [[deployment-readiness]]
-- [[equipment-fundamentals]]
+- [Operations Overview](../operations-overview.md)
+- [Field Training Exercises](../field-training-exercises.md)
+- [Deployment Readiness](../deployment-readiness.md)
+- [Equipment Fundamentals](../equipment-fundamentals.md)
 
 ## Related Categories
-- [[support-and-wellbeing/index|Support & Wellbeing]]
+- [Support & Wellbeing](../support-and-wellbeing/index.md)

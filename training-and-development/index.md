@@ -8,10 +8,10 @@ date: 2026-10-01
 This section covers initial training, advanced schools, and career progression.
 
 ## Pages
-- [[basic-training-overview]]
-- [[ait-overview]]
-- [[professional-military-education]]
-- [[career-progression]]
+- [Basic Training Overview](../basic-training-overview.md)
+- [AIT Overview](../ait-overview.md)
+- [Professional Military Education](../professional-military-education.md)
+- [Career Progression](../career-progression.md)
 
 ## Related Categories
-- [[operations-and-readiness/index|Operations & Readiness]]
+- [Operations & Readiness](../operations-and-readiness/index.md)

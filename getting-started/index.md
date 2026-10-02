@@ -8,10 +8,10 @@ date: 2026-10-01
 This section introduces the purpose of the knowledge base, how to navigate it, and foundational Army concepts.
 
 ## Pages
-- [[what-is-the-army]]
-- [[how-to-use-this-knowledge-base]]
-- [[army-glossary]]
+- [What Is the Army](../what-is-the-army.md)
+- [How to Use This Knowledge Base](../how-to-use-this-knowledge-base.md)
+- [Army Glossary](../army-glossary.md)
 
 ## Related Categories
-- [[army-life/index|Army Life]]
-- [[training-and-development/index|Training & Development]]
+- [Army Life](../army-life/index.md)
+- [Training & Development](../training-and-development/index.md)

@@ -8,9 +8,9 @@ date: 2026-10-01
 This section explains Army hierarchy, leadership roles, and organizational structure.
 
 ## Pages
-- [[leadership-overview]]
-- [[chain-of-command]]
-- [[nco-corps]]
+- [Leadership Overview](../leadership-overview.md)
+- [Chain of Command](../chain-of-command.md)
+- [NCO Corps](../nco-corps.md)
 
 ## Related Categories
-- [[operations-and-readiness/index|Operations & Readiness]]
+- [Operations & Readiness](../operations-and-readiness/index.md)

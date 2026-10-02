@@ -8,10 +8,10 @@ date: 2026-10-01
 This section covers resources that support soldiers’ physical, mental, and emotional health.
 
 ## Pages
-- [[support-services]]
-- [[mental-health-resources]]
-- [[family-support]]
-- [[financial-readiness]]
+- [Support Services](../support-services.md)
+- [Mental Health Resources](../mental-health-resources.md)
+- [Family Support](../family-support.md)
+- [Financial Readiness](../financial-readiness.md)
 
 ## Related Categories
-- [[army-life/index|Army Life]]
+- [Army Life](../army-life/index.md)
