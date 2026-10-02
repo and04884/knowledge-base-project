@@ -12,5 +12,5 @@ PME prepares soldiers for leadership roles through structured courses.
 - Advanced Leader Course (ALC)  
 
 ## Related Pages
-- [[career-progression]]
-- [[leadership-overview]]
+- [career-progression](career-progression.md)
+- [leadership-overview](leadership-overview.md)
