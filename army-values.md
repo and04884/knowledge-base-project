@@ -11,5 +11,5 @@ The Army is built on seven core values: Loyalty, Duty, Respect, Selfless Service
 These values guide decision-making, leadership, and teamwork.
 
 ## Related Pages
-- [[leadership-overview]]
-- [[army-life-overview]]
+- [leadership-overview](leadership-overview.md)
+- [army-life-overview](army-life-overview.md)
