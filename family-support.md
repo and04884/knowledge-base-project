@@ -13,5 +13,5 @@ Family programs help soldiers and their loved ones navigate military life.
 - Deployment support  
 
 ## Related Pages
-- [[support-services]]
-- [[financial-readiness]]
+- [support-services](support-services.md)
+- [financial-readiness](financial-readiness.md)
