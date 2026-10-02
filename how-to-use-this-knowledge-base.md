@@ -13,5 +13,5 @@ This knowledge base is organized into clear categories with internal links conne
 - Use category indexes to navigate sections
 
 ## Related Pages
-- [[what-is-the-army]]
-- [[army-glossary]]
+- [what-is-the-army](what-is-the-army.md)
+- [army-glossary](army-glossary.md)
