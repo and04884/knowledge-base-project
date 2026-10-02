@@ -28,7 +28,7 @@ The knowledge base contains **22 substantive content pages**, organized into six
 Each category includes an index file and multiple internally linked pages.
 
 ## 🌐 Live Site
-https://and04884.github.io/your-army-knowledge-base/
+[https://and04884.github.io/your-army-knowledge-base/](https://and04884.github.io/knowledge-base-project/)
 
 ## 🛠️ Tools Used
 - Obsidian (content creation)
