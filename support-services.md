@@ -13,5 +13,5 @@ The Army provides services to help soldiers succeed personally and professionall
 - Education centers  
 
 ## Related Pages
-- [[mental-health-resources]]
-- [[family-support]]
+- [mental-health-resources](mental-health-resources.md)
+- [family-support](family-support.md)
