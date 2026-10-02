@@ -13,5 +13,5 @@ FTXs simulate real-world conditions to build soldier skills and teamwork.
 - Communication drills  
 
 ## Related Pages
-- [[operations-overview]]
-- [[equipment-fundamentals]]
+- [operations-overview](operations-overview.md)
+- [equipment-fundamentals](equipment-fundamentals.md)
