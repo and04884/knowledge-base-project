@@ -13,5 +13,5 @@ Soldiers rely on standardized gear for training and operations.
 - Load-bearing gear  
 
 ## Related Pages
-- [field-training-exercises](field-training.md)
+- [field-training-exercises](field-training-exercises.md)
 - [deployment-readiness](deployment-readiness.md)
