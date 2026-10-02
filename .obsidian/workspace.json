@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "25c152f64fd0aef6",
+    "type": "split",
+    "children": [
+      {
+        "id": "af1ebb6b835429ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39af6f511a2914ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "what-is-the-army.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what-is-the-army"
+            }
+          },
+          {
+            "id": "fee11f671b1f66bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about"
+            }
+          },
+          {
+            "id": "32eff9e7d27f7af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "site map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "site map"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4ea4bb9aa1be60c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2b4458265848569",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "31a3e85d8709d297",
+    "type": "split",
+    "children": [
+      {
+        "id": "bed00cdca364ae7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc476c35b3023faa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7fa025a8ad9275fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4de4861313100812",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "254535d35b64802a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba53e8384e8599d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6574d4a93d9844ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "site map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b358d1718a7ab25f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "site map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "dc706d762ba08778",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a33da7d331c35047",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "874d1b2757a44009",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "site map.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "32eff9e7d27f7af6",
+  "lastOpenFiles": [
+    "about.md",
+    "site map.md",
+    "nco-corps.md",
+    "leadership-overview.md",
+    "chain-of-command.md",
+    "leadership-and-structure/index.md",
+    "what-is-the-army.md",
+    "references.md",
+    "index.md",
+    "leadership-and-structure",
+    "training-and-development/index.md",
+    "army-life/index.md",
+    "getting-started/index.md",
+    "getting started.md",
+    "getting-started",
+    "financial-readiness.md",
+    "family-support.md",
+    "mental-health-resources.md",
+    "support-services.md",
+    "support-and-wellbeing/index.md",
+    "equipment-fundamentals.md",
+    "operations-and-readiness/index.md",
+    "deployment-readiness.md",
+    "field-training-exercises.md",
+    "operations-overview.md",
+    "basic-training-overview.md",
+    "career-progression.md",
+    "professional-military-education.md",
+    "operations-and-readiness",
+    "support-and-wellbeing",
+    "training-and-development",
+    "army-life",
+    "Untitled"
+  ]
+}
