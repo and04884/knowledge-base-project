@@ -13,5 +13,5 @@ Soldiers advance through rank, education, and performance.
 - Specialized schools  
 
 ## Related Pages
-- [[professional-military-education]]
-- [[leadership-overview]]
+- [professional-military-education](professional-military-education.md)
+- [leadership-overview](leadership-overview.md)
