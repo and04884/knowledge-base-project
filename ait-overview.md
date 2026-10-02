@@ -13,5 +13,5 @@ AIT teaches job-specific skills based on a soldier’s MOS.
 - Field exercises  
 
 ## Related Pages
-- [[basic-training-overview](basic-training-overview.md)]
-- [[career-progression](career-progession)]
+- [basic-training-overview](basic-training-overview.md)
+- [career-progression](career-progession)
