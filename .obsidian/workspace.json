@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "site map.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "site map"
+              "title": "README"
             }
           }
         ],
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "site map.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "site map.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "site map.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -235,34 +235,34 @@
   },
   "active": "32eff9e7d27f7af6",
   "lastOpenFiles": [
-    "README.md",
-    "about.md",
-    "site map.md",
-    "nco-corps.md",
-    "leadership-overview.md",
-    "chain-of-command.md",
-    "leadership-and-structure/index.md",
-    "what-is-the-army.md",
     "references.md",
-    "index.md",
-    "leadership-and-structure",
-    "training-and-development/index.md",
-    "army-life/index.md",
-    "getting-started/index.md",
-    "getting started.md",
-    "getting-started",
-    "financial-readiness.md",
-    "family-support.md",
-    "mental-health-resources.md",
+    "site map.md",
     "support-services.md",
-    "support-and-wellbeing/index.md",
-    "equipment-fundamentals.md",
-    "operations-and-readiness/index.md",
-    "deployment-readiness.md",
-    "field-training-exercises.md",
+    "what-is-the-army.md",
+    "README.md",
+    "professional-military-education.md",
     "operations-overview.md",
-    "basic-training-overview.md",
+    "nco-corps.md",
+    "mental-health-resources.md",
+    "living-arrangements.md",
+    "leadership-overview.md",
+    "index.md",
+    "how-to-use-this-knowledge-base.md",
+    "financial-readiness.md",
+    "field-training-exercises.md",
+    "family-support.md",
+    "equipment-fundamentals.md",
+    "deployment-readiness.md",
+    "daily-routine.md",
+    "chain-of-command.md",
     "career-progression.md",
+    "basic-training-overview.md",
+    "army-values.md",
+    "army-life-overview.md",
+    "army-glossary.md",
+    "ait-overview.md",
+    "leadership-and-structure",
+    "getting-started",
     "operations-and-readiness",
     "support-and-wellbeing",
     "training-and-development",
