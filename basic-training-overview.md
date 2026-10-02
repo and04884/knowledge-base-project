@@ -13,5 +13,5 @@ Basic Training introduces discipline, physical fitness, and foundational soldier
 - Blue Phase  
 
 ## Related Pages
-- [[ait-overview]]
-- [[daily-routine]]
+- [ait-overview](ait-overview.md)
+- [daily-routine](daily-routine.md)
