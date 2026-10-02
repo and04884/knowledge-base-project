@@ -14,6 +14,6 @@ The U.S. Army is a branch of the Armed Forces responsible for land-based militar
 - Train and prepare forces for deployment
 
 ## Related Pages
-- [(army-glossary)]
-- [[army-life-overview]]
-- [[basic-training-overview]]
+- [army-glossary](army-glossary.md)
+- [army-life-overview](army-life-overview.md)
+- [basic-training-overview](basic-training-overview.md)
