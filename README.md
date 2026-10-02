@@ -36,4 +36,4 @@ Each category includes an index file and multiple internally linked pages.
 - GitHub Pages (hosting)
 
 ## 📄 References
-See `references.md` for external sources.
+See [references.md](references.md) for external sources.
