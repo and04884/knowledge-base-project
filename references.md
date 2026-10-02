@@ -7,6 +7,6 @@ date: 2026-10-01
 
 External sources used throughout the knowledge base.
 
-- U.S. Army Official Website — cited in [[what-is-the-army]]
-- Army Values — cited in [[army-values]]
-- Basic Training Overview — cited in [[basic-training-overview]]
+- U.S. Army Official Website — cited in [what-is-the-army](what-is-the-army.md)
+- Army Values — cited in [army-values](army-values.md)
+- Basic Training Overview — cited in [basic-training-overview](basic-training-overview.md)
