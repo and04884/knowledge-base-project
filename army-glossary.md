@@ -14,5 +14,5 @@ A quick reference for common Army terms.
 - **Ruck** — March carrying a loaded pack  
 
 ## Related Pages
-- [[what-is-the-army]]
-- [[army-life-overview]]
+- [what-is-the-army](what-is-the-army)
+- [army-life-overview](army-life-overview)
