@@ -13,5 +13,5 @@ Soldiers may live in barracks, on-base housing, or off-base depending on rank an
 - On-base amenities  
 
 ## Related Pages
-- [[army-life-overview]]
-- [[support-services]]
+- [army-life-overview](army-life-overview.md)
+- [support-services](support-services.md)
