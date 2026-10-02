@@ -14,5 +14,5 @@ The chain of command ensures clear communication and accountability.
 - Battalion  
 
 ## Related Pages
-- [[leadership-overview]]
-- [[operations-overview]]
+- [leadership-overview](leadershi-overview.md)
+- [operations-overview](operations-overview.md)
