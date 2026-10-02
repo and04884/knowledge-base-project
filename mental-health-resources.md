@@ -13,5 +13,5 @@ Mental health support is essential for soldier readiness and resilience.
 - Peer support programs  
 
 ## Related Pages
-- [[support-services]]
-- [[family-support]]
+- [support-services](support-services.md)
+- [family-support](family-support.md)
