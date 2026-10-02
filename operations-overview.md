@@ -13,5 +13,5 @@ Army operations include training missions, support roles, and coordinated activi
 - Execution  
 
 ## Related Pages
-- [[field-training-exercises]]
-- [[deployment-readiness]]
+- [field-training-exercises](field-training-exercises.md)
+- [deployment-readiness](deployment-readiness.md)
