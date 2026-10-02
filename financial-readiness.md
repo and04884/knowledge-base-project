@@ -13,5 +13,5 @@ Financial readiness ensures soldiers can manage money responsibly.
 - Pay and allowances  
 
 ## Related Pages
-- [[family-support]]
-- [[support-services]]
+- [family-support](family-support.md)
+- [support-services](support-services.md)
