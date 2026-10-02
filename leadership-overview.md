@@ -13,5 +13,5 @@ Army leadership emphasizes responsibility, mentorship, and decision-making.
 - Commitment  
 
 ## Related Pages
-- [[chain-of-command]]
-- [[nco-corps]]
+- [chain-of-command](chain-of-command.md)
+- [nco-corps](nco-corps.md)
