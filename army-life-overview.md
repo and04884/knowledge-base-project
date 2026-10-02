@@ -14,6 +14,6 @@ Army life blends discipline, teamwork, and personal growth. Soldiers balance tra
 - Community and camaraderie  
 
 ## Related Pages
-- [[daily-routine]]
-- [[living-arrangements]]
-- [[army-values]]
+- [daily-routine](daily-routine.md)
+- [living-arrangements](living-arrangements.md)
+- [army-values](army-values.md)
